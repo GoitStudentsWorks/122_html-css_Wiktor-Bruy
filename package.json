@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/webee-project/",
+    "build": "vite build --base=/122_html-css_Wiktor-Bruy/",
     "preview": "vite preview"
   },
   "devDependencies": {
